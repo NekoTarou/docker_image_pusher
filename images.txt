@@ -9,3 +9,4 @@ halcyonazure/lsky-pro-docker
 apacherocketmq/rocketmq-dashboard
 redis:6.2.7
 apache/rocketmq:4.9.1
+pongsky/rocketmq-console-ng
