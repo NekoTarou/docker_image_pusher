@@ -4,10 +4,11 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
 
-halcyonazure/lsky-pro-docker
-apacherocketmq/rocketmq-dashboard
-redis:6.2.7
-apache/rocketmq:4.9.1
-pongsky/rocketmq-console-ng
+#halcyonazure/lsky-pro-docker
+#apacherocketmq/rocketmq-dashboard
+#redis:6.2.7
+#apache/rocketmq:4.9.1
+#pongsky/rocketmq-console-ng
 arm64v8/nginx
