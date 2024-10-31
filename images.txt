@@ -5,12 +5,13 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-halcyonazure/lsky-pro-docker
-apacherocketmq/rocketmq-dashboard
-redis:6.2.7
-apache/rocketmq:4.9.1
-pongsky/rocketmq-console-ng
---platform=linux/arm64 arm64v8/nginx
-openjdk:8-jdk-alpine
-openjdk:11-jdk-alpine
-openjdk:17-jdk-alpine
+#halcyonazure/lsky-pro-docker
+#apacherocketmq/rocketmq-dashboard
+#redis:6.2.7
+#apache/rocketmq:4.9.1
+#pongsky/rocketmq-console-ng
+#--platform=linux/arm64 arm64v8/nginx
+#openjdk:8-jdk-alpine
+#openjdk:11-jdk-alpine
+#openjdk:17-jdk-alpine
+--platform=linux/arm64 openjdk:8-jdk-alpine
