@@ -15,6 +15,8 @@ nginx
 #openjdk:11-jdk-alpine
 #openjdk:17-jdk-alpine
 #--platform=linux/arm64 openjdk:8-jdk-alpine
-powerjob/powerjob-mysql
-powerjob/powerjob-server
-powerjob/powerjob-worker-samples
+#jpowerjob/powerjob-mysql
+#powerjob/powerjob-server
+#powerjob/powerjob-worker-samples
+--platform=linux/arm64 selenium/standalone-chromium:138.0.7204.157
+--platform=linux/arm64 selenium/standalone-chromium:138.0
