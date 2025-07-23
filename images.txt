@@ -18,5 +18,5 @@ nginx
 #jpowerjob/powerjob-mysql
 #powerjob/powerjob-server
 #powerjob/powerjob-worker-samples
---platform=linux/arm64 selenium/standalone-chromium:138.0.7204.157
---platform=linux/arm64 selenium/standalone-chromium:138.0
+selenium/standalone-chromium:138.0.7204.157
+selenium/standalone-chromium:138.0
