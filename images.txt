@@ -18,5 +18,6 @@ nginx
 #jpowerjob/powerjob-mysql
 #powerjob/powerjob-server
 #powerjob/powerjob-worker-samples
-selenium/standalone-chromium:138.0.7204.157
-selenium/standalone-chromium:138.0
+#selenium/standalone-chromium:138.0.7204.157
+#selenium/standalone-chromium:138.0
+--platform=linux/arm64 pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
