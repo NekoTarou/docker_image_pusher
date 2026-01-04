@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #halcyonazure/lsky-pro-docker
---platform=linux/arm64 apacherocketmq/rocketmq-dashboard
+--platform=linux/arm64 apache/rocketmq-dashboard
 #redis:6.2.7
 #apache/rocketmq:4.9.1
 #pongsky/rocketmq-console-ng
